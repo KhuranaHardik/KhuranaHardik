@@ -1,4 +1,4 @@
-<p align="center">Hardik Khurana<br>Flutter Developer (2+ Years Experience)</p>
+<h1 align="center">Hardik Khurana<br>Flutter Developer (2+ Years Experience)</h1>
 
 ###
 
