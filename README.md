@@ -9,16 +9,18 @@
 <h1 align="center"> Flutter Developer | Tech Enthusiast | Learner </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=iamHardikKhurana.iamHardikKhurana)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=KhuranaHardik.KhuranaHardik)
 
 </p>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Notifications in Flutter.
+- 🔭 Flutter Developer having 2 years of Experience.
 
-- 🌱 Also, I’m learning Terraform, Ansible, Machine Learning. 
+- 🌱 Familier with State Managements like Provider & Bloc.
+
+- Have Implemented Firebase, Rest APIs and Third Party Integrations. 
 
 
 
