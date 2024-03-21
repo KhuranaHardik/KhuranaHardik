@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+<p align="center">Hardik Khurana<br>Flutter Developer (2+ Years Experience)</p>
 
 ###
 
@@ -35,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Hardik Khurana from Shahjahanpur, Uttar Pradesh<br><br>Results-driven Flutter Developer Engineer with a proven record in designing and implementing robust mobile applications. Skilled in cross-functional collaboration,<br>ensuring optimal user interface experiences. A tech enthusiast, committed to continuous learning and staying abreast of industry trends. Ready to bring a proactive approach and expertise to contribute to the success of Flutter development projects. Eager to engage with cutting-edge technologies, driving innovation and delivering outstanding results within collaborative team environments.<br><br>- 🔭 I’m working as Software Engineer (Flutter) @ Appinventiv Technologies Pvt. Ltd.<br>- 📚 I'm currently learning Bloc State Management.</p>
+<p align="left">I'm Hardik Khurana from Shahjahanpur, Uttar Pradesh<br><br>Results-driven Flutter Developer Engineer with a proven record in designing and implementing robust mobile applications. Skilled in cross-functional collaboration, ensuring optimal user interface experiences. A tech enthusiast, committed to continuous learning and staying abreast of industry trends. Ready to bring a proactive approach and expertise to contribute to the success of Flutter development projects. Eager to engage with cutting-edge technologies, driving innovation and delivering outstanding results within collaborative team environments.<br><br>- 🔭 I’m working as Software Engineer (Flutter) @ Appinventiv Technologies Pvt. Ltd.<br>- 📚 I'm currently learning Bloc State Management.</p>
 
 ###
 
